@@ -1,0 +1,32 @@
+.inSample{
+    margin-top: 1px;
+    margin-left: 500px;
+    color: black;
+}
+.inSampl{
+    margin-top: -25px;
+    margin-left: 600px;
+    color: black;
+
+}
+
+.combo{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.agbian{
+    margin-left: 15px;
+}
+.teryila{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    justify-content: space-around; 
+}
+
+.mande{
+    margin-top: 0px;
+}
+
+

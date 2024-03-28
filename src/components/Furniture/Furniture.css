@@ -1,0 +1,89 @@
+.n{
+    
+    display: flex;
+    /* justify-content: center;
+    align-content: center; */
+    padding-top: 15px;
+    display: inline;
+}
+h1.naija{
+    color:black;
+    padding-top: -20px;
+    margin-left: 400px;
+
+}
+
+p.kanjo{
+    margin-left: 400px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 15px;
+    
+}
+
+.container {
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 30px;
+    padding-left:  10px;
+    display: flex;
+   }
+   [class^='grid-item'] {
+    display: flex;
+   }
+
+   #one{
+    height: 300px;
+
+   }
+
+   #two{
+    margin-left: -2px;
+    height: 250px;
+    margin-top: 50px;
+    width: 490px;
+   }
+
+   #three{
+    margin-left: -10px;
+    margin-top: 120px;
+    height: 230px;
+    width: 210px;
+   }
+#four{
+    margin-left: -10px;
+    margin-top: 50px;
+    height: 270px;
+    width: 250px;
+}
+#five{
+    margin-left: -10px;
+    height: 320px;
+    width: 220px;
+}
+
+#six{
+    margin-top: -70px;
+
+}
+#seven{
+    margin-top: -70px;
+    height: 250px;
+    width: 365px;
+
+}
+#eight{
+    margin-top: -50px;
+    margin-left: 219px;
+    
+
+}
+#nine{
+    margin-top: -50px;
+    margin-left: -10px;
+    height: 230px;
+    width: 240px;
+}
+
+

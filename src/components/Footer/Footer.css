@@ -1,0 +1,30 @@
+
+
+
+.mgbede{
+    height: 100px;
+}
+
+.Ashi{
+    color: black;
+}
+.Akin{
+    display: flex;
+    justify-content: space-around;
+}
+
+#yisa{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    margin-top: 15px;
+}
+
+.yen{
+    padding-left: 15px;
+    color: black;
+}
+
+#film{
+    text-decoration: none;
+}

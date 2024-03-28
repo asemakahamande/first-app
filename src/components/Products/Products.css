@@ -1,0 +1,222 @@
+.atoat{
+    justify-content: center;
+    align-content: center;
+
+}
+
+.atoato{
+    margin-top: 14px;
+    margin-left: 600px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.jime{ 
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    justify-content:space-around ;
+} 
+
+.nguvan{
+    display: inline;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    justify-content: flex-start; 
+    padding-top: -30px;
+    background-color: aliceblue;
+
+}
+.kand{
+    display: inline-block;
+    justify-content: flex-start;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.mov{
+    margin-top: -10px;
+}
+
+.syth{
+    display: inline-block;
+    margin-top: -30px;
+}
+#clo{
+    color: rgb(131, 123, 93);
+    font-size: small;
+    margin-left: 10px;
+}
+
+
+.kan{
+    display: inline-block;
+    justify-content: flex-start;
+    margin-left: 180px;
+    margin-top: -20px;
+}
+
+.mo{
+    margin-top: -10px;
+}
+
+.sy{
+    display: inline-block;
+    margin-top: -30px;
+}
+
+
+
+.paul{
+    /* display: inline-block;
+    justify-content: flex-start; */
+    margin-left: 250px;
+    margin-top: 10px;
+}
+
+.chu{
+    margin-top: -10px;
+}
+
+.gidi{
+    display: inline-block;
+    margin-top: -20px;
+}
+#joy{
+    color: rgb(131, 123, 93);
+    font-size: small;
+    margin-left: 10px;
+}
+
+.much{
+    /* display: inline-block; */
+    /* justify-content: flex-start; */
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.how{
+    margin-top: 0px;
+}
+
+.let{
+    margin-top: -20px;
+    
+}
+
+
+.direction{
+  position: absolute;
+  bottom: 50px;
+  right: 20px;
+  background-color: antiquewhite;;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 300px;
+  width: 400px;
+}
+
+h5{
+  color:black;
+}
+.near{
+  margin-top: -15px;
+}
+
+h1{
+  color: rgb(190, 146, 32);
+  font-size: x-larger;
+  margin-top: -15px;
+}
+
+.man{
+  margin-top: -34px;
+}
+
+p{
+  color: black;
+}
+
+button{
+  height: 50px;
+  width: 150px;
+  background-color:  rgb(190, 146, 32);
+  margin-top: 34px;
+  border: 1px solid rgb(190, 146, 32);
+}
+
+.remove{
+  text-decoration: none;
+  color: white;
+  font-size: large;
+}
+
+.compress{
+    height: 200px;
+    width: 200px;
+    border: 1px solid red;
+
+}
+.col{
+    top: 5px;
+    display: flex;
+    padding: 14px;
+    margin-left: 30px;
+}
+
+.directio{
+    top: 1px;
+    position: relative;
+    right: 20px; 
+    background-color: antiquewhite;;
+    color: white;
+    padding-left: 20px;
+    height: 300px;
+    width: 400px;
+  }
+  
+  h5{
+    color:black;
+  }
+  .near{
+    margin-top: -15px;
+  }
+  
+  h1{
+    color: rgb(190, 146, 32);
+    font-size: x-larger;
+    margin-top: -15px;
+  }
+  
+  .man{
+    margin-top: -34px;
+  }
+  
+  p{
+    color: black;
+  }
+  
+  button{
+    height: 50px;
+    width: 150px;
+    background-color:  rgb(190, 146, 32);
+    margin-top: 34px;
+    border: 1px solid rgb(190, 146, 32);
+  }
+  
+  .remove{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+  }
+
+  .landlady{
+    padding-left: -0px;
+  }
+
+  .land{
+    padding-left: 14px;
+  }
+
